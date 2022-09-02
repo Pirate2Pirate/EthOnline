@@ -24,5 +24,5 @@ func main{output_ptr : felt*, range_check_ptr}():
 
     serialize_word(address)
     serialize_word(tx_id)
-
+    return()
 end
